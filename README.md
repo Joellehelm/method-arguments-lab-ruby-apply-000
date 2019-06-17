@@ -43,7 +43,8 @@ Looks like our test is expecting to test a method called `#introduction`. Let's 
 def introduction
 end
 ```
-
+def introduction
+end
 Now we'll run our test suite again. You should see the following error:
 
 ```bash
